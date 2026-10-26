@@ -1,0 +1,260 @@
+{
+  "pages": {
+    "aktivitas.html": {
+      "h1": "Belajar dengan mencoba",
+      "opacity": "0.477023",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "apersepsi.html": {
+      "h1": "Ayo mulai dengan stik!",
+      "opacity": "0.193596",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "evaluasi.html": {
+      "h1": "Tunjukkan kemampuanmu",
+      "opacity": "0.249123",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "game.html": {
+      "h1": "Game Kantong Ceria",
+      "opacity": "0.193564",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "index.html": {
+      "h1": "Penjumlahan jadi lebih mudah!",
+      "opacity": "0.193282",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "latihan.html": {
+      "h1": "Latihan 10 soal",
+      "opacity": "0.193417",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "materi-1.html": {
+      "h1": "Apa itu penjumlahan?",
+      "opacity": "0.249027",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "materi-2.html": {
+      "h1": "Gunakan kantong penjumlahan",
+      "opacity": "0.307153",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "materi-3.html": {
+      "h1": "Boleh tukar urutan!",
+      "opacity": "0.248869",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "profil.html": {
+      "h1": "Kenalan dengan Lili Belajar",
+      "opacity": "0.142896",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "refleksi.html": {
+      "h1": "Bagaimana pengalamanmu?",
+      "opacity": "0.193564",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "selesai.html": {
+      "h1": "Hebat, kamu sudah sampai di sini!",
+      "opacity": "0.248958",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    },
+    "video.html": {
+      "h1": "Belajar lewat video",
+      "opacity": "0.0986273",
+      "boot_ok": true,
+      "pageErrorsAtPoint": 0
+    }
+  },
+  "js_off": {
+    "aktivitas.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "apersepsi.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "evaluasi.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "game.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "index.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "latihan.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "materi-1.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "materi-2.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "materi-3.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "profil.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "refleksi.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "selesai.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    },
+    "video.html": {
+      "h1": true,
+      "opacity": "1",
+      "noscript": true
+    }
+  },
+  "missing_app": {
+    "aktivitas.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "apersepsi.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "evaluasi.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "game.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "index.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "latihan.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "materi-1.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "materi-2.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "materi-3.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "profil.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "refleksi.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "selesai.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    },
+    "video.html": {
+      "h1": true,
+      "opacity": "1",
+      "js_ready": false
+    }
+  },
+  "interactions": {
+    "apersepsi": "PASS",
+    "activities": "PASS",
+    "practice": "PASS",
+    "game": "PASS",
+    "evaluation": "PASS",
+    "reflection": "PASS"
+  },
+  "balanced_distribution_example": {
+    "0": 3,
+    "1": 3,
+    "2": 2,
+    "3": 2
+  },
+  "responsive": {
+    "desktop": {
+      "scrollWidth": 1365,
+      "clientWidth": 1365
+    },
+    "mobile": {
+      "scrollWidth": 390,
+      "clientWidth": 390
+    }
+  },
+  "error_count": 0,
+  "errors": [],
+  "actual_evaluation_answer_slot_distribution": {
+    "A": 3,
+    "B": 3,
+    "C": 2,
+    "D": 2
+  },
+  "evaluation_slot_max_minus_min": 1,
+  "evaluation_answer_hidden_until_completion": true,
+  "game_full_nine_rounds_test": "PASS; score and high score displayed",
+  "responsive_widths_px_tested": [
+    320,
+    390,
+    768,
+    1024,
+    1365
+  ],
+  "live_http_navigation": "NOT TESTED: Chromium navigation blocked by environment policy (ERR_BLOCKED_BY_ADMINISTRATOR); in-memory document smoke tests used instead.",
+  "localStorage_persistence_on_real_origin": "NOT INDEPENDENTLY VERIFIED in current environment; implementation present with exception handling."
+}

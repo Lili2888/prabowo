@@ -1,0 +1,262 @@
+[
+  {
+    "id": 1,
+    "category": "Menggabungkan benda",
+    "page": "materi-1.html",
+    "question": "Ada 2 stik, lalu ditambah 3 stik. Berapa jumlah semuanya?",
+    "correct": "5",
+    "distractors": [
+      "4",
+      "6",
+      "7"
+    ],
+    "explanation": "Gabungkan 2 stik dan 3 stik, lalu hitung satu per satu. Jumlahnya 5 stik."
+  },
+  {
+    "id": 2,
+    "category": "Menghitung hasil",
+    "page": "materi-1.html",
+    "question": "Berapakah hasil dari 1 + 6?",
+    "correct": "7",
+    "distractors": [
+      "5",
+      "6",
+      "8"
+    ],
+    "explanation": "Mulai dari 1, tambahkan 6. Hasilnya 7."
+  },
+  {
+    "id": 3,
+    "category": "Menghitung hasil",
+    "page": "materi-1.html",
+    "question": "Berapakah hasil dari 4 + 2?",
+    "correct": "6",
+    "distractors": [
+      "5",
+      "7",
+      "8"
+    ],
+    "explanation": "Empat ditambah dua sama dengan enam."
+  },
+  {
+    "id": 4,
+    "category": "Menghitung hasil",
+    "page": "materi-1.html",
+    "question": "Di kelompok pertama ada 5 benda dan kelompok kedua ada 3 benda. Berapa jumlahnya?",
+    "correct": "8",
+    "distractors": [
+      "7",
+      "9",
+      "6"
+    ],
+    "explanation": "Gabungkan 5 benda dan 3 benda. Jumlah keseluruhannya 8."
+  },
+  {
+    "id": 5,
+    "category": "Menghitung hasil",
+    "page": "materi-1.html",
+    "question": "Berapakah hasil dari 6 + 2?",
+    "correct": "8",
+    "distractors": [
+      "6",
+      "7",
+      "9"
+    ],
+    "explanation": "Enam ditambah dua menghasilkan delapan."
+  },
+  {
+    "id": 6,
+    "category": "Menghitung hasil",
+    "page": "materi-1.html",
+    "question": "Berapakah hasil dari 7 + 1?",
+    "correct": "8",
+    "distractors": [
+      "7",
+      "9",
+      "10"
+    ],
+    "explanation": "Jika 1 ditambahkan pada 7, hasilnya 8."
+  },
+  {
+    "id": 7,
+    "category": "Menggabungkan benda",
+    "page": "materi-2.html",
+    "question": "Ada 5 gambar stroberi dan ditambah 4 stroberi. Berapa semua stroberi?",
+    "correct": "9",
+    "distractors": [
+      "8",
+      "10",
+      "7"
+    ],
+    "explanation": "Hitung 5 stroberi, lalu lanjutkan 4 lagi. Totalnya 9 stroberi."
+  },
+  {
+    "id": 8,
+    "category": "Menghitung hasil",
+    "page": "materi-2.html",
+    "question": "Berapakah hasil dari 8 + 2?",
+    "correct": "10",
+    "distractors": [
+      "9",
+      "11",
+      "12"
+    ],
+    "explanation": "Delapan ditambah dua sama dengan sepuluh."
+  },
+  {
+    "id": 9,
+    "category": "Menghitung hasil",
+    "page": "materi-2.html",
+    "question": "Berapakah hasil dari 7 + 4?",
+    "correct": "11",
+    "distractors": [
+      "10",
+      "12",
+      "13"
+    ],
+    "explanation": "Tujuh ditambah empat sama dengan sebelas."
+  },
+  {
+    "id": 10,
+    "category": "Menghitung hasil",
+    "page": "materi-2.html",
+    "question": "Berapakah hasil dari 8 + 3?",
+    "correct": "11",
+    "distractors": [
+      "10",
+      "12",
+      "14"
+    ],
+    "explanation": "Delapan ditambah tiga sama dengan sebelas."
+  },
+  {
+    "id": 11,
+    "category": "Menghitung hasil",
+    "page": "materi-2.html",
+    "question": "Berapakah hasil dari 6 + 6?",
+    "correct": "12",
+    "distractors": [
+      "10",
+      "11",
+      "13"
+    ],
+    "explanation": "Enam ditambah enam menghasilkan dua belas."
+  },
+  {
+    "id": 12,
+    "category": "Menghitung hasil",
+    "page": "materi-2.html",
+    "question": "Berapakah hasil dari 9 + 4?",
+    "correct": "13",
+    "distractors": [
+      "12",
+      "14",
+      "15"
+    ],
+    "explanation": "Sembilan ditambah empat sama dengan tiga belas."
+  },
+  {
+    "id": 13,
+    "category": "Menghitung hasil",
+    "page": "materi-2.html",
+    "question": "Ada 8 benda, kemudian ditambah 5 benda. Berapa jumlah semuanya?",
+    "correct": "13",
+    "distractors": [
+      "12",
+      "14",
+      "15"
+    ],
+    "explanation": "Gabungkan kelompok 8 dan kelompok 5, lalu hitung totalnya: 13."
+  },
+  {
+    "id": 14,
+    "category": "Menghitung hasil",
+    "page": "materi-2.html",
+    "question": "Berapakah hasil dari 9 + 6?",
+    "correct": "15",
+    "distractors": [
+      "14",
+      "16",
+      "13"
+    ],
+    "explanation": "Sembilan ditambah enam sama dengan lima belas."
+  },
+  {
+    "id": 15,
+    "category": "Menghitung hasil",
+    "page": "materi-2.html",
+    "question": "Berapakah hasil dari 10 + 5?",
+    "correct": "15",
+    "distractors": [
+      "14",
+      "16",
+      "20"
+    ],
+    "explanation": "Sepuluh ditambah lima sama dengan lima belas."
+  },
+  {
+    "id": 16,
+    "category": "Sifat pertukaran",
+    "page": "materi-3.html",
+    "question": "Jika 3 + 2 = 5, maka 2 + 3 = ...",
+    "correct": "5",
+    "distractors": [
+      "4",
+      "6",
+      "3"
+    ],
+    "explanation": "Urutan 3 dan 2 ditukar, tetapi jumlahnya tetap 5."
+  },
+  {
+    "id": 17,
+    "category": "Sifat pertukaran",
+    "page": "materi-3.html",
+    "question": "Jika 4 + 1 = 5, berapa hasil dari 1 + 4?",
+    "correct": "5",
+    "distractors": [
+      "4",
+      "6",
+      "7"
+    ],
+    "explanation": "Satu ditambah empat tetap menghasilkan lima."
+  },
+  {
+    "id": 18,
+    "category": "Sifat pertukaran",
+    "page": "materi-3.html",
+    "question": "Hasil 4 + 6 sama dengan hasil ...",
+    "correct": "6 + 4",
+    "distractors": [
+      "6 + 3",
+      "5 + 4",
+      "7 + 4"
+    ],
+    "explanation": "Sifat pertukaran: 4 + 6 dan 6 + 4 sama-sama berjumlah 10."
+  },
+  {
+    "id": 19,
+    "category": "Sifat pertukaran",
+    "page": "materi-3.html",
+    "question": "Jika 7 + 3 = 10, maka 3 + 7 hasilnya ...",
+    "correct": "10",
+    "distractors": [
+      "9",
+      "11",
+      "13"
+    ],
+    "explanation": "Urutan bilangan boleh ditukar. Jumlah 7 + 3 dan 3 + 7 tetap 10."
+  },
+  {
+    "id": 20,
+    "category": "Menghitung hasil",
+    "page": "materi-2.html",
+    "question": "Berapakah hasil dari 15 + 5?",
+    "correct": "20",
+    "distractors": [
+      "19",
+      "18",
+      "17"
+    ],
+    "explanation": "Lima belas ditambah lima sama dengan dua puluh, masih dalam rentang hasil sampai 20."
+  }
+]
